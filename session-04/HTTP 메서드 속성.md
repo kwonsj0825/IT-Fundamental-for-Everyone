@@ -24,7 +24,7 @@
 ### 멱등한 메서드
 
 - `GET`
-- `POST`
+- `PUT`
 - `DELETE`
 - `HEAD`
 
